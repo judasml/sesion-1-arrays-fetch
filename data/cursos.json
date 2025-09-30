@@ -1,0 +1,12 @@
+[
+  {"id": 1, "titulo": "JS Básico", "categoria": "programacion", "horas": 6, "nivel": "init"},
+  {"id": 2, "titulo": "HTML + CSS", "categoria": "frontend", "horas": 5, "nivel": "init"},
+  {"id": 3, "titulo": "React Fundamentos", "categoria": "frontend", "horas": 8, "nivel": "jr"},
+  {"id": 4, "titulo": "TypeScript Esencial", "categoria": "programacion", "horas": 7, "nivel": "jr"},
+  {"id": 5, "titulo": "Node.js APIs", "categoria": "backend", "horas": 9, "nivel": "jr"},
+  {"id": 6, "titulo": "Bases de Datos SQL", "categoria": "backend", "horas": 6, "nivel": "jr"},
+  {"id": 7, "titulo": "UX para Devs", "categoria": "ux", "horas": 4, "nivel": "init"},
+  {"id": 8, "titulo": "Next.js 14 Páginas", "categoria": "frontend", "horas": 6, "nivel": "jr"},
+  {"id": 9, "titulo": "Git & GitHub", "categoria": "devops", "horas": 3, "nivel": "init"},
+  {"id": 10, "titulo": "Infra básica en Vercel", "categoria": "devops", "horas": 2, "nivel": "init"}
+]
